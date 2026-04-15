@@ -2,7 +2,7 @@ Introduction
 
 A simple yet effective VST plugin for the Killswitch technique.
 
-Inspired by the lack of a built-in killswitch function in Ample Sound guitar libraries, I decided to develop this plugin (with help from AI) to fill that gap. The plugin is triggered by external MIDI input: any MIDI Note-On message activates the "Kill" state, and Note-Off releases it.
+Inspired by the lack of a built-in killswitch function in Ample Sound guitar libraries, I decided to develop this plugin (with the help from AI) to fill that gap. The plugin is triggered by external MIDI input: any MIDI Note-On message activates the "Kill" state, and Note-Off releases it.
 
 Physical Modeling & DSP Logic
 
